@@ -195,8 +195,8 @@ p{
 
 }
 .sidebarGo{
-      transform:translate(-443px, 0px);
-      position:absolute;
+  transform:translate(-443px, 0px);
+  position:absolute;
 }
 .ham{
   margin-top: 10px;
